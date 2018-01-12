@@ -1,0 +1,9 @@
+FIX:
+Makefile:6047: recipe for target 'qt/qt_bitnodes_qt-bitnodes.o' failed
+make[2]: *** [qt/qt_bitnodes_qt-bitnodes.o] Error 1
+make[2]: Leaving directory '/home/mario/CoinBuilds/NODE/src'
+Makefile:6799: recipe for target 'all-recursive' failed
+make[1]: *** [all-recursive] Error 1
+make[1]: Leaving directory '/home/mario/CoinBuilds/NODE/src'
+Makefile:569: recipe for target 'all-recursive' failed
+make: *** [all-recursive] Error 1
